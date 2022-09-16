@@ -1,0 +1,15 @@
+
+PROJECT NAME : Algorithmic trading for Financial markets 
+
+
+
+Algorithmic trading uses a computer program that follows an algorithm to place a trade. 
+
+
+The objective of our project is to implement trading strategies
+We tried to predict trading signals using Python and AWS based on a set of rules using technical indicators.
+
+We formulated the problem of stock trading decision as a classification problem with two different classes:
+buy and sell. We aim to identify the most efficient classifier based on some metrics.
+
+Technologies Used : PYTHON , AWS
